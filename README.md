@@ -7,7 +7,7 @@ This project demonstrates how to host a static website (portfolio or simple app)
 
 1. **Create AWS Account** – Used Free Tier account.
 2. **Create S3 Bucket** – Enabled public access for hosting.
-3. **Upload Website Files** – Uploaded HTML/CSS/JS using AWS CLI (`aws s3 sync`) and AWS Console.
+3. **Upload Website Files** – Uploaded HTML/JS using AWS CLI (`aws s3 sync`) and AWS Console.
 4. **Enable Static Website Hosting** – Configured `index.html` and `error.html`.
 5. **Create CloudFront Distribution** – Set S3 bucket as origin, enabled HTTPS.
 6. **Test Website** – Verified website via CloudFront domain.
