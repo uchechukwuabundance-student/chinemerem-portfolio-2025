@@ -20,8 +20,7 @@ Access the live site here:http://dy9l4s5jyvc3x.cloudfront.net
 ## Files in Repository
 
 - `index.html` – Main HTML file
-- `style.css` – Stylesheet
-- `script.js` – Optional JavaScript file
+  
 - `bucket-policy.json` – S3 bucket policy used
 - `README.md` – Project documentation
 
